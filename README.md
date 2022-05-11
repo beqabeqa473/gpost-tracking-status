@@ -1,2 +1,2 @@
 # gpost-tracking-status
-Tracking status of georgian post
+Tracking parcel status of georgian post
